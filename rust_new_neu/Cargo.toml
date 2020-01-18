@@ -1,0 +1,11 @@
+[package]
+name = "rust_new_neu"
+version = "0.1.0"
+authors = ["J-F Bilodeau <jfbilodeau@chronogears.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.7.3"
+rand_distr = "0.2.2"

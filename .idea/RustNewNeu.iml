@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_yew_new_neu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_yew_new_neu/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_yew_new_neu/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_yew_new_neu/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu_cli/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu_cli/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu_cli/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_new_neu_cli/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_new_neu/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_new_neu_cli/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_yew_new_neu/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
