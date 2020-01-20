@@ -1,3 +1,5 @@
+pub mod new_nue;
+
 use rand_distr::StandardNormal;
 use rand::Rng;
 
